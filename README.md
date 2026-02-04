@@ -7,3 +7,4 @@ Learning:
 2) Working with commits
 
 Изменено на GitHub
+Локальное изменение
